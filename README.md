@@ -6,4 +6,4 @@ This repo. contains an analysis project I did as a part of the Practicum 100 cou
 2. Have a look at my work :)
 3. At the bottom you'll find links to: a presentation, a dashbord, ducumantation
 
-### In order to see all the graphs as well as the code please go [Here](https://nbviewer.org/github/idancohen13/Outlet-Preformance-Analysis/blob/main/Home%20World%20outlet%20Analysis%20.ipynb)
+### Since interactive graphs do not render in Git-Hub, in order to see all the graphs as well as the code please go [Here](https://nbviewer.org/github/idancohen13/Outlet-Preformance-Analysis/blob/main/Home%20World%20outlet%20Analysis%20.ipynb)
